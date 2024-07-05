@@ -15,7 +15,7 @@ I like building cool projects.
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shalri&layout=compact&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalri&show_icons=true&theme=dark)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalri&show_icons=true&theme=dark) -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shalri&theme=dark)
 
