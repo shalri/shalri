@@ -13,8 +13,10 @@ I like building cool projects.
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalri&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shalri&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalri&show_icons=true&theme=dark)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shalri&theme=dark)
 
 <!-- ## 🔗 Connect with Me
