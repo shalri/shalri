@@ -5,7 +5,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalri&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shalri&theme=radical)
 
 
 - 🌱 I’m currently learning ...
