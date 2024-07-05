@@ -9,9 +9,9 @@ I like building cool projects.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalri&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shalri&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shalri&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalri&show_icons=true&theme=shadow-orange)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shalri&layout=compact&theme=shadow-orange)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shalri&theme=shadow-orange)
 
 <!-- ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
