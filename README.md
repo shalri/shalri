@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @shalri
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shalri&layout=compact&theme=radical)
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalri&show_icons=true&theme=radical)
 
 - 🌱 I’m currently learning ...
