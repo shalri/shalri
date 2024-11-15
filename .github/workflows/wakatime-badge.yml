@@ -1,0 +1,32 @@
+name: Wakatime Badge
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  update_badge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Wakatime Badge
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          curl -fsSL "https://wakatime.com/badge/user/${{ secrets.WAKATIME_API_KEY }}.svg" -o wakatime-badge.svg
+          mv wakatime-badge.svg ./badge.svg
+
+      - name: Commit and push badge
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git add badge.svg
+          git commit -m "Update Wakatime badge"
+          git push
